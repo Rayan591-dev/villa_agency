@@ -265,7 +265,7 @@ li.nav-item-end:hover a span {
     font-size: 40px;
     line-height: 1.4;
 }
-
+.section3 .col-lg-5{margin-bottom:35px;}
 .accordion-button:focus {
     box-shadow: none;
 }
@@ -510,7 +510,7 @@ li.nav-item-end:hover a span {
     color: #3d3d3d;
     line-height: 1.8;
 }
-
+.section6 .col-sm-12{margin-top:25px}
 .section6 li.nav-item-end a i::after {
     content: "";
     position: absolute;
